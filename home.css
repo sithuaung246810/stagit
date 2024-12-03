@@ -1,3 +1,5 @@
 body{
-    background-attachment: red;
+    background-color: red;
+    color:white;
+    text-transform: capitalize;
 }
